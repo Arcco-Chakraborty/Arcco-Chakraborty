@@ -42,5 +42,3 @@ First-year CSE @ BITS Pilani, Pilani. I build things end to end: firmware, full-
 #### Elsewhere
 I document builds on YouTube at [ArcTek Systems](https://www.youtube.com/@arcteksystems). Reach me at arcco.chakraborty@gmail.com.
 
-<!-- Optional stats card. Delete this block if you don't want it. -->
-![Arcco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arcco-Chakraborty&show_icons=true&hide_border=true&count_private=true)
