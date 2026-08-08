@@ -14,7 +14,7 @@ Delete the optional stats block at the end if you don't want it.
 
 # Arcco
 
-First-year CSE @ BITS Pilani, Pilani. I build things end to end: firmware, full-stack web, and ML pipelines. The fun part is wiring all three together, a model running on a box I flashed myself talking to a backend I shipped. Most of my projects start as "can I actually build this" and end up deployed. No fluff, pure creation.
+CSE Sophomore @ BITS Pilani, Pilani. I build things end to end: firmware, full-stack web, and ML pipelines. The fun part is wiring all three together, a model running on a box I flashed myself talking to a backend I shipped. Most of my projects start as "can I actually build this" and end up deployed. No fluff, pure creation.
 
 #### Currently
 - Building neural nets from scratch with Karpathy's *Neural Networks: Zero to Hero*: autograd, language models, a GPT, all by hand
