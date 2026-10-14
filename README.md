@@ -40,5 +40,5 @@ CSE Sophomore @ BITS Pilani, Pilani. I build things end to end: firmware, full-s
 **Infra** Linux VPS administration · Nginx · systemd · fail2ban · Git  
 
 #### Elsewhere
-I document builds on YouTube at [ArcTek Systems](https://www.youtube.com/@arcteksystems). Reach me at arcco.chakraborty@gmail.com.
+I document builds on YouTube at [ArcTek Systems](https://www.youtube.com/@arcteksystems). Reach me at f20250719@pilani.bits-pilani.ac.in.
 
